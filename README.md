@@ -1,2 +1,4 @@
 # H666
-You Died know here?
+Proyek ("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")
+  
+  GPU ("{5@$#OH90G51-@U!GA0-44ANSP-$7-YAK$88RHA-}")
